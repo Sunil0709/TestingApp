@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "689648897592",
+    "firebase_url": "https://testapp-c0ef5.firebaseio.com",
+    "project_id": "testapp-c0ef5",
+    "storage_bucket": "testapp-c0ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689648897592:android:4f0d1f7639ae4be6",
+        "android_client_info": {
+          "package_name": "verixos.com.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689648897592-ph3tp43esmckpv3mh5o85kcpi3udjqmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_K52vO91QKXT_T8Uvf7SKL1OwbCzA6gE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
